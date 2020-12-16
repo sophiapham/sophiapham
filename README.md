@@ -1,5 +1,7 @@
 ### Readable code is better code 🐒
 
+To recognize you do not have the best code is one step closer to learning how to get there 🐾
+
 <!--
 **sophiapham/sophiapham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
